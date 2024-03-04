@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>jira_details</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 11:32:18</sys_created_on>
+        <sys_id>c95afe2b93680210cc6b74cdfaba1021</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Jira Details</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_update_name>item_option_new_set_c95afe2b93680210cc6b74cdfaba1021</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-01 11:33:31</sys_updated_on>
+        <title>Jira Details</title>
+        <type>one_to_many</type>
+        <version>3</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
