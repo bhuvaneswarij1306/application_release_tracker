@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9e7a7da093b40210cc6b74cdfaba1056" label="Jira Details" max_length="40" name="x_1025229_applic_0_jira_details" type="collection">
+        <element label="Jira Description" max_length="40" name="jira_description" type="string"/>
+        <element label="Jira ID" max_length="40" name="jira_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Release Info" max_length="32" name="release_info" read_only="true" reference="x_1025229_applic_0_release_information" type="reference"/>
+        <index name="index">
+            <element name="release_info"/>
+        </index>
+    </element>
+</database>

@@ -5,6 +5,14 @@
         <element label="Planned Release Date" max_length="40" name="planned_release_date" type="glide_date"/>
         <element label="Project Code" max_length="40" name="project_code" type="string"/>
         <element label="Release Title" max_length="10" name="release_title" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
+                <element inactive_on_update="false" label="Send Back" sequence="1" value="Send Back"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="Approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="Rejected"/>
+            </choice>
+        </element>
         <element label="UAT Signoff document" max_length="40" name="uat_signoff_document" type="file_attachment"/>
     </element>
 </database>
