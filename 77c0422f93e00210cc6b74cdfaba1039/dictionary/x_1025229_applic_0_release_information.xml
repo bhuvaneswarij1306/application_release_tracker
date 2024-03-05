@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7df5fe6393680210cc6b74cdfaba1013" extends="task" label="Release Information" max_length="40" name="x_1025229_applic_0_release_information" type="collection">
+        <element label="Comments" max_length="800" name="comment0" type="string"/>
         <element label="Impact analysis document" max_length="40" name="impact_analysis_document" type="file_attachment"/>
         <element label="Module release" max_length="40" name="module_release" type="string"/>
         <element label="Planned Release Date" max_length="40" name="planned_release_date" type="glide_date"/>
