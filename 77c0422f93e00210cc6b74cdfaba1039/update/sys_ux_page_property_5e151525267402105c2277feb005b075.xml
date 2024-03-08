@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Application Release Tracker">92151525107402100fbae3f0d6959f86</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-07 09:17:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5e151525267402105c2277feb005b075</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_update_name>sys_ux_page_property_5e151525267402105c2277feb005b075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 09:17:32</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1025229_applic_0.92151525107402100fbae3f0d6959f86.root.wbApplicabilityConfigId</unique_name>
+        <value>9f15552593740210cc6b74cdfaba10e6</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e151525267402105c2277feb005b075"/>
+</record_update>

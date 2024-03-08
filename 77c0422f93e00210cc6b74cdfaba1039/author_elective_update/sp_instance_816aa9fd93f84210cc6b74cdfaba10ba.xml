@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>tasks</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">c56aa9fd93f84210cc6b74cdfaba10b4</sp_column>
+        <sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 05:28:58</sys_created_on>
+        <sys_id>816aa9fd93f84210cc6b74cdfaba10ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_update_name>sp_instance_816aa9fd93f84210cc6b74cdfaba10ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 05:28:58</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=816aa9fd93f84210cc6b74cdfaba10ba"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</application>
+        <file_path/>
+        <instance_id>f6e4db751b5ab110e84d2f8dee4bcb22</instance_id>
+        <instance_name>dev204739</instance_name>
+        <name>sp_instance_816aa9fd93f84210cc6b74cdfaba10ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph>tasks</glyph><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">c56aa9fd93f84210cc6b74cdfaba10b4</sp_column><sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-08 05:28:58</sys_created_on><sys_id>816aa9fd93f84210cc6b74cdfaba10ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>News</sys_name><sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package><sys_policy/><sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope><sys_update_name>sp_instance_816aa9fd93f84210cc6b74cdfaba10ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-08 05:28:58</sys_updated_on><title>News</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=816aa9fd93f84210cc6b74cdfaba10ba"/></record_update>]]></payload>
+        <payload_hash>1972991750</payload_hash>
+        <record_name>News</record_name>
+        <reverted_from/>
+        <source>121445e493700210cc6b74cdfaba10f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 05:28:58</sys_created_on>
+        <sys_id>856aa9fd93f84210cc6b74cdfaba10bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e1c8937c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 05:28:58</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>896aa9fd56f84210315add5329a15bbb</update_guid>
+        <update_guid_history>896aa9fd56f84210315add5329a15bbb:1972991750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="News">edc1f979933c4210cc6b74cdfaba1051</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 06:01:13</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>19e9dbfff6044cbaa53c2430981f05e4</sys_id>
+        <sys_metadata>816aa9fd93f84210cc6b74cdfaba10ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_scope_delete display_value="">0d2ed2d6bf2e4d3ba65d7c8cdeb3fbf9</sys_scope_delete>
+        <sys_update_name>sp_instance_816aa9fd93f84210cc6b74cdfaba10ba</sys_update_name>
+        <sys_update_version display_value="sp_instance_816aa9fd93f84210cc6b74cdfaba10ba">856aa9fd93f84210cc6b74cdfaba10bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 06:01:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7df5fe6393680210cc6b74cdfaba1013" extends="task" label="Release Information" max_length="40" name="x_1025229_applic_0_release_information" type="collection">
+    <element db_object_id="7df5fe6393680210cc6b74cdfaba1013" extends="task" label="Release Information" max_length="40" name="x_1025229_applic_0_release_information" text_index="true" type="collection">
         <element label="Comments" max_length="800" name="comment0" type="string"/>
-        <element label="Impact analysis document" max_length="40" name="impact_analysis_document" type="file_attachment"/>
-        <element label="Module release" max_length="40" name="module_release" type="string"/>
-        <element label="Planned Release Date" max_length="40" name="planned_release_date" type="glide_date"/>
-        <element label="Project Code" max_length="40" name="project_code" type="string"/>
-        <element label="Release Title" max_length="10" name="release_title" type="string"/>
+        <element label="Impact analysis document" max_length="40" name="impact_analysis_document" read_only="true" type="file_attachment"/>
+        <element label="Module release" max_length="40" name="module_release" read_only="true" type="string"/>
+        <element label="Planned Release Date" max_length="40" name="planned_release_date" read_only="true" type="glide_date"/>
+        <element label="Project Code" max_length="40" name="project_code" read_only="true" type="string"/>
+        <element label="Release Title" max_length="10" name="release_title" read_only="true" type="string"/>
         <element choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
@@ -14,6 +14,6 @@
                 <element inactive_on_update="false" label="Rejected" sequence="3" value="Rejected"/>
             </choice>
         </element>
-        <element label="UAT Signoff document" max_length="40" name="uat_signoff_document" type="file_attachment"/>
+        <element label="UAT Signoff document" max_length="40" name="uat_signoff_document" read_only="true" type="file_attachment"/>
     </element>
 </database>

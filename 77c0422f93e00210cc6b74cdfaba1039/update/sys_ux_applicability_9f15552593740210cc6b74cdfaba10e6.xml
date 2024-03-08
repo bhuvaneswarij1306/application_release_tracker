@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1025229_applic_0.Audience for app application-release-tracker</api_name>
+        <description/>
+        <name>Audience for app application-release-tracker</name>
+        <role_names/>
+        <roles>fbc0422f93e00210cc6b74cdfaba1063,3bc0422f93e00210cc6b74cdfaba104f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-07 09:17:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f15552593740210cc6b74cdfaba10e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app application-release-tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_update_name>sys_ux_applicability_9f15552593740210cc6b74cdfaba10e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 09:17:32</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

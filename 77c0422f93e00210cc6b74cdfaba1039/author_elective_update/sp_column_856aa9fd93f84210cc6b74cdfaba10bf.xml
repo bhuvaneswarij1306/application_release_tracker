@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <semantic_tag/>
+        <size/>
+        <size_lg/>
+        <size_sm>4</size_sm>
+        <size_xs/>
+        <sp_row display_value="1">016aa9fd93f84210cc6b74cdfaba10b2</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 05:28:58</sys_created_on>
+        <sys_id>856aa9fd93f84210cc6b74cdfaba10bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_update_name>sp_column_856aa9fd93f84210cc6b74cdfaba10bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 05:28:58</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</application>
+        <file_path/>
+        <instance_id>f6e4db751b5ab110e84d2f8dee4bcb22</instance_id>
+        <instance_name>dev204739</instance_name>
+        <name>sp_column_856aa9fd93f84210cc6b74cdfaba10bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><semantic_tag/><size/><size_lg/><size_sm>4</size_sm><size_xs/><sp_row display_value="1">016aa9fd93f84210cc6b74cdfaba10b2</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-08 05:28:58</sys_created_on><sys_id>856aa9fd93f84210cc6b74cdfaba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package><sys_policy/><sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope><sys_update_name>sp_column_856aa9fd93f84210cc6b74cdfaba10bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-08 05:28:58</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1478007326</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>121445e493700210cc6b74cdfaba10f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 05:28:58</sys_created_on>
+        <sys_id>456aa9fd93f84210cc6b74cdfaba10c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e1c8937f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 05:28:58</sys_updated_on>
+        <type>Column</type>
+        <update_guid>496aa9fd01f842107cd3a74dc99ddec0</update_guid>
+        <update_guid_history>496aa9fd01f842107cd3a74dc99ddec0:-1478007326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">672275b9933c4210cc6b74cdfaba1017</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 06:03:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>6617848fa47c4b608694ff89a8930c04</sys_id>
+        <sys_metadata>856aa9fd93f84210cc6b74cdfaba10bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Application Release Tracker" source="x_1025229_applic_0">77c0422f93e00210cc6b74cdfaba1039</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application Release Tracker">77c0422f93e00210cc6b74cdfaba1039</sys_scope>
+        <sys_scope_delete display_value="">0d2ed2d6bf2e4d3ba65d7c8cdeb3fbf9</sys_scope_delete>
+        <sys_update_name>sp_column_856aa9fd93f84210cc6b74cdfaba10bf</sys_update_name>
+        <sys_update_version display_value="sp_column_856aa9fd93f84210cc6b74cdfaba10bf">456aa9fd93f84210cc6b74cdfaba10c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 06:03:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
